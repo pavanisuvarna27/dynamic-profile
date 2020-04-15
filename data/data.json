@@ -6,15 +6,46 @@
 				"email":"durga.k@apssdc.in",
 				"mobile":"9160161978",
 				"address":"Rajahmundry,Andhrapradesh"
-			}
-		},
+			   },
+			  "education":[
+				{
+					"degree":"B-Tech (C.S.E)",
+					"institute":"vishnu college of engineering"
+				},
+				{
+					"degree":"Intermediate (M.P.C)",
+					"institute":"Sri chaitanya junior college"
+				},
+				{
+					"degree":"SSC",
+					"institute":"Bhashyam public school"
+				}
+			]
+		}, 
+
 		{
 			"profileInfo":{
 				"name":"K.Suvarna",
 				"email":"pavani.karra27@gmail.com",
 				"mobile":"8179578411",
 				"address":"Rajahmundry,Andhrapradesh"
-			}
+			},
+			"education":[
+				{
+					"degree":"B-Tech (C.S.E)",
+					"institute":"vishnu college of engineering"
+				},
+				{
+					"degree":"Intermediate (M.P.C)",
+					"institute":"Sri chaitanya junior college"
+				},
+				{
+					"degree":"SSC",
+					"institute":"Bhashyam public school"
+				}
+			]
 		}
 	]
 }
+	
+
