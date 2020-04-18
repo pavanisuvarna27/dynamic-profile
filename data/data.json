@@ -10,15 +10,15 @@
 			  "education":[
 				{
 					"degree":"B-Tech (C.S.E)",
-					"institute":"vishnu college of engineering"
+					"institute":"Aditya college of engineering"
 				},
 				{
 					"degree":"Intermediate (M.P.C)",
-					"institute":"Sri chaitanya junior college"
+					"institute":"S.K.R college for women"
 				},
 				{
 					"degree":"SSC",
-					"institute":"Bhashyam public school"
+					"institute":"N.R.H school"
 				}
 			]
 		}, 
@@ -30,18 +30,18 @@
 				"mobile":"8179578411",
 				"address":"Rajahmundry,Andhrapradesh"
 			},
-			"education":[
+			 "education":[
 				{
 					"degree":"B-Tech (C.S.E)",
-					"institute":"vishnu college of engineering"
+					"institute":"Aditya college of engineering"
 				},
 				{
 					"degree":"Intermediate (M.P.C)",
-					"institute":"Sri chaitanya junior college"
+					"institute":"S.K.R college for women"
 				},
 				{
 					"degree":"SSC",
-					"institute":"Bhashyam public school"
+					"institute":"N.R.H school"
 				}
 			]
 		}
